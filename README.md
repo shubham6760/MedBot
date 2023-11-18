@@ -1,6 +1,8 @@
 # MedBot
 MedBot is an innovative web platform developed by Shubham Raj, an AI engineer, dedicated to providing a seamless integration of medicine selling and free medical assistance 24/7. This project aims to bridge the gap between pharmaceutical access and medical guidance, ensuring users have a reliable resource for their health needs.
 <img width="1440" alt="Screenshot 2023-11-18 at 12 57 36 AM" src="https://github.com/shubham6760/MedBot/assets/92684809/ece7b18f-03ed-4c67-8341-e37f838056f3">
+<img width="1436" alt="Screenshot 2023-11-18 at 12 57 49 AM" src="https://github.com/shubham6760/MedBot/assets/92684809/1589354b-02f4-4513-b943-1644717816d5">
+
 <img width="1440" alt="Screenshot 2023-11-18 at 12 58 04 AM" src="https://github.com/shubham6760/MedBot/assets/92684809/def68eba-7fb7-4b4c-8c31-8bd738930c80">
 <img width="1440" alt="Screenshot 2023-11-18 at 12 58 04 AM" src="https://github.com/shubham6760/MedBot/assets/92684809/51fc7868-8086-4fd4-ab60-854f1c82278c">
 <img width="1440" alt="Screenshot 2023-11-18 at 12 57 58 AM" src="https://github.com/shubham6760/MedBot/assets/92684809/0651c4fb-7f1e-46f3-b79c-7f1b0b834fea">
